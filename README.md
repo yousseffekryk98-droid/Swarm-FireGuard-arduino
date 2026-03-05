@@ -277,3 +277,7 @@ Emergency interrupt: **Flame detection → immediate response** (regardless of m
 - **Car 1 Details**: See `firmware/car1_search/README.md`
 - **Cars 2-3 Details**: See `firmware/car2_3_extinguish/README.md`
 - **Car 4 Details**: See `firmware/car4_rescue/README.md`
+
+
+
+![WhatsApp Image 2026-03-05 at 11 42 57 PM](https://github.com/user-attachments/assets/c5dfbe16-892d-4559-a245-4798f6bc9175)
