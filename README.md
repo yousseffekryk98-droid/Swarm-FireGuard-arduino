@@ -269,7 +269,7 @@ Emergency interrupt: **Flame detection → immediate response** (regardless of m
 **Developed by**: Youssef Mohamed Fekry  
 **Platform**: ESP32-WROOM microcontroller swarm  
 **Purpose**: Multi-agent autonomous fire detection, suppression, and rescue  
-**License**: Educational/Research use
+**License**: Educational/Research use.
 
 ## Support & Documentation
 
